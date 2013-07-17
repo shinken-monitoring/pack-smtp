@@ -3,8 +3,8 @@
 	"types": ["pack"],
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-smtp",
-	"author": "Jean Gabes",
-	"description": "",
+	"author": "Jean Gabès",
+	"description": "SMTP(s) checks",
 	"contributors": [
 	  {
 		"name": "Jean Gabes",
@@ -18,7 +18,7 @@
 	"repository": "https://github.com/shinken-monitoring/pack-smtp",
 	"keywords": [
 	  "pack",
-	  
+	  "smtp"	  
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
