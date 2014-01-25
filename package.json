@@ -18,7 +18,8 @@
 	"repository": "https://github.com/shinken-monitoring/pack-smtp",
 	"keywords": [
 	  "pack",
-	  "smtp"	  
+	  "smtp",
+	  "mail"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
