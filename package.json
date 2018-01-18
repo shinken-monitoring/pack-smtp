@@ -1,7 +1,7 @@
 {
 	"name": "smtp",
 	"types": ["pack"],
-	"version": "1.4",
+	"version": "1.5",
 	"homepage": "https://github.com/shinken-monitoring/pack-smtp",
 	"author": "Jean Gabès",
 	"description": "SMTP(s) checks",
